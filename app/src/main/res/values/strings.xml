@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mawaqit Launcher</string>
+    <string name="accessibility_service_description">Detecta cuando aparece la pantalla de inicio de la tele y abre Mawaqit automáticamente.</string>
+</resources>
